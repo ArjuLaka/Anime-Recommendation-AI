@@ -6,3 +6,6 @@ import matplotlib as plt
 
 df = pd.DataFrame({"A": [1, 2], "B": {3, 4}})
 print(df)
+
+arr = np.array([1, 2, 3, 4, 5])
+print(arr)
