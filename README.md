@@ -17,7 +17,10 @@ Dataset ini mencakup sebanyak 40 judul anime yang tersurvey oleh puluhan penonto
 > - std : (Studio)
 
 ## Cara Penggunaan
-1. Install dependencies
+1. Install Python
+   a) Installasi di windows
+     - download [Python 3.13](https://www.python.org/downloads/) atau yang terbarh
+3. Install dependencies
    ```
    pip install -r requirements.txt
    ```
