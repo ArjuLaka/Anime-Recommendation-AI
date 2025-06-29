@@ -18,9 +18,13 @@ Dataset ini mencakup sebanyak 40 judul anime yang tersurvey oleh puluhan penonto
 
 ## Cara Penggunaan
 1. Install Python
-   > a. Installasi di windows
-     - download [Python 3.13](https://www.python.org/downloads/) atau yang terbarh
-3. Install dependencies
+   > a. Installasi di Windows
+     - Download [Python](https://www.python.org/downloads/) installer disini versi stable atau yang newest
+   > b. Installasi di Linux (Ubuntu/Debian)
+     - ```
+       sudo apt install python3 python-venv
+       ```
+2. Install dependencies
    ```
    pip install -r requirements.txt
    ```
