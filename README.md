@@ -26,6 +26,7 @@ Dataset ini mencakup sebanyak 40 judul anime yang tersurvey oleh puluhan penonto
        py --version
        ```
    > b. Installasi di Linux (Ubuntu/Debian)
+     - Buka terminal dan ketik
      - ```
        sudo apt install python3 python-venv
        ```
