@@ -21,6 +21,7 @@ Dataset ini mencakup sebanyak 40 judul anime yang tersurvey oleh puluhan penonto
    > a. Instalasi di Windows
      - Download [Windows Python Installer](https://www.python.org/downloads/windows) versi stable atau newest
      - Jalankan Python Installernya
+     - Buatlah environment variable untuk eksekusi file binary-nya
      - Buka CMD/Command Prompt dan ketik
      - ```
        py --version
