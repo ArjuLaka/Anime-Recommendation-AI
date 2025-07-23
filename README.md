@@ -40,9 +40,13 @@ Dataset ini mencakup sebanyak 40 judul anime yang tersurvey oleh puluhan penonto
        ```
      - Lalu ketik
      - ```
-       python --version
+       python3 --version
        ```
-2. Install dependencies
+2. Install semua dependency
    ```
    pip install -r requirements.txt
+   ```
+3. Jalankan script
+   ```
+   python main.py
    ```
