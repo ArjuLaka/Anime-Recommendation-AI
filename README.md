@@ -8,13 +8,13 @@ Dataset ini mencakup sebanyak 40 judul anime yang tersurvey oleh puluhan penonto
 
 > Variabel dari data diatas sebagai berikut:
 > - id : (ID)
-> - ttl : (Title)
-> - yr : (Year Realeased)
-> - rt : (Rating)
-> - ec : (Episode Count)
-> - gnr : (Genres)
-> - dg : (Demographic)
-> - std : (Studio)
+> - title : (Judul)
+> - yearRealeased : (Tahun rilis)
+> - rating : (Rating)
+> - totalEpisode : (Jumlah episode)
+> - genres : (Genre)
+> - demographic : (Demografi/Target penonton)
+> - studio : (Studio)
 
 ## Cara Penggunaan
 1. Install Python
@@ -48,5 +48,5 @@ Dataset ini mencakup sebanyak 40 judul anime yang tersurvey oleh puluhan penonto
    ```
 3. Jalankan script
    ```
-   python main.py
+   streamlit main.py
    ```
