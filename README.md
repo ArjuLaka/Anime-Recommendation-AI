@@ -48,5 +48,5 @@ Dataset ini mencakup sebanyak 40 judul anime yang tersurvey oleh puluhan penonto
    ```
 3. Jalankan script
    ```
-   streamlit main.py
+   streamlit run main.py
    ```
