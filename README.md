@@ -47,6 +47,11 @@ Dataset ini mencakup sebanyak 40 judul anime yang tersurvey oleh puluhan penonto
    pip install -r requirements.txt
    ```
 3. Jalankan script
+   - Dengan web interface
    ```
    streamlit run main.py
+   ```
+   - Tanpa web interface
+   ```
+   python main.py [Nama Anime] [Jumlah Rekomendasi]
    ```
