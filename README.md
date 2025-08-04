@@ -53,5 +53,7 @@ Dataset ini mencakup sebanyak 40 judul anime yang tersurvey oleh puluhan penonto
    ```
    - Tanpa web interface
    ```
-   python main.py [Nama Anime] [Jumlah Rekomendasi]
+   python main.py <Nama Anime> <Jumlah Rekomendasi>
    ```
+   
+## Kontribusi
