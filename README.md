@@ -24,14 +24,14 @@ Dataset ini mencakup sebanyak 40 judul anime yang tersurvey oleh puluhan penonto
      - Buatlah environment variable untuk eksekusi file binary-nya
      - Buka CMD/Command Prompt dan ketik
      - ```
-       py --version
+       python3 --version
        ```
    > b. Instalasi di MacOs
      - Download [MacOs Python Installer](https://www.python.org/downloads/macos) versi stable atau newest
      - Jalankan Python Installernya
      - Buka terminal dan ketik
      - ```
-       python --version
+       python3 --version
        ```
    > c. Instalasi di Linux (Ubuntu/Debian)
      - Buka terminal dan ketik
