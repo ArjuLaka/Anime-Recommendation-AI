@@ -26,6 +26,7 @@ Dataset ini mencakup sebanyak 40 judul anime yang tersurvey oleh puluhan penonto
      - ```
        python3 --version
        ```
+       Untuk memastikan apakah python sudah terinstall
    > b. Instalasi di MacOs
      - Download [MacOs Python Installer](https://www.python.org/downloads/macos) versi stable atau newest
      - Jalankan Python Installernya
@@ -33,6 +34,7 @@ Dataset ini mencakup sebanyak 40 judul anime yang tersurvey oleh puluhan penonto
      - ```
        python3 --version
        ```
+       Untuk memastikan apakah python sudah terinstall
    > c. Instalasi di Linux (Ubuntu/Debian)
      - Buka terminal dan ketik
      - ```
@@ -42,6 +44,7 @@ Dataset ini mencakup sebanyak 40 judul anime yang tersurvey oleh puluhan penonto
      - ```
        python3 --version
        ```
+       Untuk memastikan apakah python sudah terinstall
 2. Install semua dependency
    ```
    pip install -r requirements.txt
