@@ -23,7 +23,7 @@ Dataset ini mencakup sebanyak 40 judul anime yang tersurvey oleh puluhan penonto
      - Jalankan Python Installernya
      - Buatlah environment variable untuk eksekusi file binary-nya
      - Buka CMD/Command Prompt dan ketik
-     - ```
+       ```
        python3 --version
        ```
        Untuk memastikan apakah python sudah terinstall
@@ -31,17 +31,17 @@ Dataset ini mencakup sebanyak 40 judul anime yang tersurvey oleh puluhan penonto
      - Download [MacOs Python Installer](https://www.python.org/downloads/macos) versi stable atau newest
      - Jalankan Python Installernya
      - Buka terminal dan ketik
-     - ```
+       ```
        python3 --version
        ```
        Untuk memastikan apakah python sudah terinstall
    > c. Instalasi di Linux (Ubuntu/Debian)
      - Buka terminal dan ketik
-     - ```
+       ```
        sudo apt update && apt install build-essential python3 python-venv -y
        ```
      - Lalu ketik
-     - ```
+       ```
        python3 --version
        ```
        Untuk memastikan apakah python sudah terinstall
